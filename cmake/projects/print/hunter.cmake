@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/Ivanopulopulo/lab09/archive/v0.1.0.0.tar.gz"
     SHA1
-    1b8873adb40f637d36ea6faa9aa8d06760a98db2
+    eabbb164ed1f8630d1780c66db24e5dba42e64c1
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
